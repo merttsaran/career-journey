@@ -1,6 +1,6 @@
 ## 👋 About Me | Logistics Expert turned Backend Developer
 
-I am a logistics professional with **8 years of deep industry experience**, now channeling my domain expertise into the world of **Backend Development**. My journey is built on a solid foundation of international trade, supply chain management, and operational excellence.
+I am a logistics professional with **7+ years of deep industry experience**, now channeling my domain expertise into the world of **Backend Development**. My journey is built on a solid foundation of international trade, supply chain management, and operational excellence.
 
 ### 🚛 My Logistics Background
 * **Global Liner Operations:** Spent 3.5+ years at **Hapag-Lloyd**, mastering global shipping standards and complex logistics workflows.
